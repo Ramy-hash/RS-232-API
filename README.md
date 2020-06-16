@@ -1,1 +1,1 @@
-RS-232-API project is a database of serial commands that is searchable  
+RS-232-API project is a searchable database of serial commands
